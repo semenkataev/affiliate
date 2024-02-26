@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-12-24 00:14:12 --> 404 Page Not Found: 
+ERROR - 2023-12-24 00:14:12 --> Triggered by URI: /favicon.ico
+ERROR - 2023-12-24 07:51:04 --> 404 Page Not Found: 
+ERROR - 2023-12-24 07:51:04 --> Triggered by URI: /favicon.ico
+ERROR - 2023-12-24 07:52:59 --> 404 Page Not Found: 
+ERROR - 2023-12-24 07:52:59 --> Triggered by URI: /favicon.ico
+ERROR - 2023-12-24 09:01:41 --> 404 Page Not Found: 
+ERROR - 2023-12-24 09:01:41 --> Triggered by URI: /favicon.ico
+ERROR - 2023-12-24 09:12:35 --> 404 Page Not Found: 
+ERROR - 2023-12-24 09:12:35 --> Triggered by URI: /favicon.ico
+ERROR - 2023-12-24 17:54:06 --> Severity: error --> Exception: Column 'is_vendor' cannot be null D:\work\affiliate\system\affiliate\system\database\drivers\mysqli\mysqli_driver.php 305
+ERROR - 2023-12-24 11:09:25 --> 404 Page Not Found: 
+ERROR - 2023-12-24 11:09:25 --> Triggered by URI: /pricing
+ERROR - 2023-12-24 17:47:30 --> 404 Page Not Found: 
+ERROR - 2023-12-24 17:47:30 --> Triggered by URI: /busneisso
+ERROR - 2023-12-24 17:48:09 --> 404 Page Not Found: 
+ERROR - 2023-12-24 17:48:09 --> Triggered by URI: /busneisso
+ERROR - 2023-12-24 17:48:13 --> 404 Page Not Found: 
+ERROR - 2023-12-24 17:48:13 --> Triggered by URI: /busneisso
+ERROR - 2023-12-24 17:48:14 --> 404 Page Not Found: 
+ERROR - 2023-12-24 17:48:14 --> Triggered by URI: /busneisso
+ERROR - 2023-12-24 17:48:14 --> 404 Page Not Found: 
+ERROR - 2023-12-24 17:48:14 --> Triggered by URI: /busneisso
+ERROR - 2023-12-24 17:48:15 --> 404 Page Not Found: 
+ERROR - 2023-12-24 17:48:15 --> Triggered by URI: /busneisso
+ERROR - 2023-12-24 20:08:32 --> 404 Page Not Found: 
+ERROR - 2023-12-24 20:08:32 --> Triggered by URI: /favicon.ico
+ERROR - 2023-12-24 20:09:06 --> 404 Page Not Found: 
+ERROR - 2023-12-24 20:09:06 --> Triggered by URI: /favicon.ico
+ERROR - 2023-12-24 21:06:56 --> 404 Page Not Found: 
+ERROR - 2023-12-24 21:06:56 --> Triggered by URI: /favicon.ico
+ERROR - 2023-12-24 21:16:15 --> 404 Page Not Found: 
+ERROR - 2023-12-24 21:16:15 --> Triggered by URI: /favicon.ico
+ERROR - 2023-12-24 21:26:23 --> 404 Page Not Found: 
+ERROR - 2023-12-24 21:26:23 --> Triggered by URI: /favicon.ico

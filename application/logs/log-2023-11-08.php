@@ -1,0 +1,20 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-11-08 07:50:55 --> 404 Page Not Found: 
+ERROR - 2023-11-08 07:50:55 --> Triggered by URI: /favicon.ico
+ERROR - 2023-11-08 11:23:13 --> 404 Page Not Found: 
+ERROR - 2023-11-08 11:23:13 --> Triggered by URI: /favicon.ico
+ERROR - 2023-11-08 11:23:17 --> 404 Page Not Found: 
+ERROR - 2023-11-08 11:23:17 --> Triggered by URI: http://api.ipify.org/?format=json
+ERROR - 2023-11-08 16:19:11 --> 404 Page Not Found: 
+ERROR - 2023-11-08 16:19:11 --> Triggered by URI: /favicon.ico
+ERROR - 2023-11-08 22:35:29 --> 404 Page Not Found: 
+ERROR - 2023-11-08 22:35:29 --> Triggered by URI: /favicon.ico
+ERROR - 2023-11-08 22:35:37 --> 404 Page Not Found: 
+ERROR - 2023-11-08 22:35:37 --> Triggered by URI: /favicon.ico
+ERROR - 2023-11-08 22:36:25 --> 404 Page Not Found: 
+ERROR - 2023-11-08 22:36:25 --> Triggered by URI: /favicon.ico
+ERROR - 2023-11-08 22:38:22 --> 404 Page Not Found: 
+ERROR - 2023-11-08 22:38:22 --> Triggered by URI: /robots.txt
+ERROR - 2023-11-08 22:58:15 --> 404 Page Not Found: 
+ERROR - 2023-11-08 22:58:15 --> Triggered by URI: /favicon.ico
